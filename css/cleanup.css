@@ -1,3 +1,3 @@
-.tag-1,#tag-2,#wall #tag-3.slick.wicked,#wall .parent #tag-4,div#wall>.parent>#tag-5.slick,div#wall>div.parent>div:last-child div#tag-6,body>div#wall>div.parent>div >div:last-child #tag-7.slick {
+.tag-1,#tag-2,#wall #tag-3.slick.wicked,#wall .parent #tag-4,div#wall>.parent>#tag-5.slick,div#wall>div.parent>div:last-child div#tag-6,body>div#wall>div.parent>div > #tag-7.slick {
   display: none;
 }
